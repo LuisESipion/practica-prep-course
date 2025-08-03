@@ -1,3 +1,10 @@
 - primero: es aquello
+	- manteniendo asi
+	- no asi
 - segundo: es asa y no asi
+	- con esto
+	- mas asi
+	- y con aquello
 - tercero: es aso
+	- primer punto
+	- segundo guion
